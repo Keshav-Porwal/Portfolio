@@ -23,7 +23,7 @@ const projects = [
     stack: 'OpenAI API, FastAPI, React, Docker, Cloudjiffy',
     description:
       'AI-powered WhatsApp chatbot for real-time agricultural guidance. Integrated GPT-4o for multimodal crop disease detection from images and text. Projected to reduce fertilizer misapplication by 50–60%.',
-    live: '#',
+    live: 'https://www.khetiai.co.in/',
     github: '#',
   },
   {
@@ -31,16 +31,16 @@ const projects = [
     stack: 'Node.js, Prisma, Vercel, React',
     description:
       'AI & AR-powered retail platform with smart chatbot, AR product visualization, and real-time Social Sync for collaborative group shopping.',
-    live: '#',
-    github: '#',
-  },
+    live: 'https://wallmart-hackathon.vercel.app/',
+    github: 'https://github.com/samarJ19/wallmart-Hackathon.git',
+  },  
   {
     name: 'Xplora',
     stack: 'MERN, Mappls API, Vercel',
     description:
       'Full-stack gamified web app with custom Geolocation API algorithms and MongoDB redemption system driving customer footfall to local vendors via location-based rewards.',
-    live: '#',
-    github: '#',
+    live: 'https://xploraaaaaaaa.vercel.app/',
+    github: 'https://github.com/AnuragTiwari1508/Xplora.git',
   },
 ];
 

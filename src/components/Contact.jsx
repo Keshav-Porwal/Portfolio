@@ -90,8 +90,8 @@ export default function Contact() {
             {/* Social links */}
             <div style={{ display: 'flex', gap: '4px', alignItems: 'center' }}>
               {[
-                { label: 'GitHub', href: 'https://github.com/keshavporwal' },
-                { label: 'LinkedIn', href: 'https://linkedin.com/in/keshavporwal' },
+                { label: 'GitHub', href: 'https://github.com/Keshav-Porwal' },
+                { label: 'LinkedIn', href: 'https://www.linkedin.com/in/keshav-porwal-9b5bb7297/' },
               ].map(({ label, href }, i, arr) => (
                 <span key={label} style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
                   <a
